@@ -1,7 +1,8 @@
 ## Hi there 👋
+I am Parwinder Singh a software engineer. Currently doing Master's on data science from AIT, Pune.
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning AI agents
+- 👯 I’m looking to collaborate on AI, ML projects
 
 <!--
 **ParwinderS9/parwinders9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
